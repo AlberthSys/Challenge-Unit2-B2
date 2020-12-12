@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Reto2 {
+public class CaminandoVoy {
 
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
