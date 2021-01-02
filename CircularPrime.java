@@ -12,7 +12,6 @@ public class CircularPrime {
             if (ItsPrime(newNumber,longNumber)){
                 numberInput = String.valueOf(newNumber);
                 numberInput=ReverseNumber(numberInput);
-                System.out.println(numberInput);
                 trainningReverse ++;
             }
             else{
